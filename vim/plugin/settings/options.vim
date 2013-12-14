@@ -6,5 +6,3 @@ set wildignore+=*/tmp/*,*.so,*.swp,*.zip,docs/*     " MacOSX/Linux
 " Turn off sound alerts
 set visualbell
 
-" Set terminal to 256 colors
-set t_Co=256

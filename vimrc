@@ -31,3 +31,6 @@ NeoBundle 'plasticboy/vim-markdown'
 NeoBundle 'nono/vim-handlebars'
 NeoBundle 'phmongeau/vim-slate'
 
+" Pretty colors
+"
+NeoBundle 'flazz/vim-colorschemes'
