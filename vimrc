@@ -17,6 +17,17 @@ NeoBundleCheck
 
 NeoBundle 'scrooloose/nerdtree'
 NeoBundle 'tpope/vim-fugitive'
+NeoBundle 'kien/ctrlp.vim'
+NeoBundle 'bling/vim-airline'
+NeoBundle 'YankRing.vim'
+NeoBundle 'ervandew/supertab'
+NeoBundle 'Townk/vim-autoclose'
+NeoBundle 'tmhedberg/matchit'
+NeoBundle 'rking/ag.vim'
 
-"" remap : to ;
-nnoremap ; :
+NeoBundle 'php.vim'
+NeoBundle 'scrooloose/syntastic'
+NeoBundle 'plasticboy/vim-markdown'
+NeoBundle 'nono/vim-handlebars'
+NeoBundle 'phmongeau/vim-slate'
+
