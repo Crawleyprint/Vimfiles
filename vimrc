@@ -31,6 +31,14 @@ NeoBundle 'plasticboy/vim-markdown'
 NeoBundle 'nono/vim-handlebars'
 NeoBundle 'phmongeau/vim-slate'
 
+" HTML
+NeoBundle 'mattn/emmet-vim'
+
+" Javascript
+  Bundle 'JavaScript-Indent'
+  Bundle 'JavaScript-syntax'
+  Bundle 'ParseJSON'
+
 " Pretty colors
 "
 NeoBundle 'flazz/vim-colorschemes'
