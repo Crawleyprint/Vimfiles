@@ -16,6 +16,7 @@ NeoBundleCheck
 "**************
 
 NeoBundle 'scrooloose/nerdtree'
+NeoBundle 'tpope/vim-fugitive'
 
 "" remap : to ;
 nnoremap ; :
