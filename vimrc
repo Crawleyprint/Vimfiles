@@ -35,9 +35,9 @@ NeoBundle 'phmongeau/vim-slate'
 NeoBundle 'mattn/emmet-vim'
 
 " Javascript
-  Bundle 'JavaScript-Indent'
-  Bundle 'JavaScript-syntax'
-  Bundle 'ParseJSON'
+NeoBundle 'JavaScript-Indent'
+NeoBundle 'JavaScript-syntax'
+NeoBundle 'ParseJSON'
 
 " Pretty colors
 "
