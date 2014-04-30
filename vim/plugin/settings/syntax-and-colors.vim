@@ -5,11 +5,15 @@
 syntax enable
 
 " Set terminal to 256 colors
-set t_Co=256
 
 " set colorscheme
-if !has('gui_running')
+if has('gui_running')
+  colorscheme inkpot
+else
+  set background="dark"
+  set t_Co=256
   let g:solarized_termcolors=256
+  colorscheme solarized
 end
-colorscheme solarized
+
 

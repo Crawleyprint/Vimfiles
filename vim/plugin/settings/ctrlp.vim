@@ -1,5 +1,5 @@
 " set ctrlp trigger
-nnoremap <c-t> :CtrlP<CR>
+nnoremap <c-t> :CtrlPRoot<CR>
 
 if executable('ag')
   " Use Ag over Grep
