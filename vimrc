@@ -34,6 +34,7 @@ NeoBundle 'Valloric/YouCompleteMe'
 
 " HTML
 NeoBundle 'mattn/emmet-vim'
+NeoBundle 'othree/html5.vim'
 
 " Javascript
 NeoBundle 'JavaScript-Indent'
