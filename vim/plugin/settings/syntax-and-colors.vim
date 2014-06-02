@@ -8,7 +8,7 @@ syntax enable
 
 " set colorscheme
 if has('gui_running')
-  colorscheme inkpot
+  colorscheme gummybears
 else
   set background="dark"
   set t_Co=256
