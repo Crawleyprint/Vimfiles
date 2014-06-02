@@ -44,6 +44,7 @@ NeoBundle 'marijnh/tern_for_vim'
 " Pretty colors
 "
 NeoBundle 'flazz/vim-colorschemes'
+NeoBundle 'vim-scripts/Gummybears'
 
 let g:syntastic_disabled_filetypes=['html']
 
