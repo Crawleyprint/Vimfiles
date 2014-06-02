@@ -46,3 +46,5 @@ NeoBundle 'marijnh/tern_for_vim'
 NeoBundle 'flazz/vim-colorschemes'
 
 let g:syntastic_disabled_filetypes=['html']
+
+nnoremap K i<CR><Esc>
