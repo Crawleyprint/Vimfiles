@@ -40,6 +40,7 @@ NeoBundle 'JavaScript-Indent'
 NeoBundle 'JavaScript-syntax'
 NeoBundle 'ParseJSON'
 NeoBundle 'marijnh/tern_for_vim'
+NeoBundle 'othree/javascript-libraries-syntax.vim'
 
 " Pretty colors
 "
