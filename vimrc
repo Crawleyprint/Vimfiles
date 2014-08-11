@@ -46,6 +46,7 @@ NeoBundle 'othree/javascript-libraries-syntax.vim'
 "
 NeoBundle 'flazz/vim-colorschemes'
 NeoBundle 'vim-scripts/Gummybears'
+NeoBundle 'Gist.vim'
 
 let g:syntastic_disabled_filetypes=['html']
 
